@@ -11,7 +11,7 @@ public class UserRestController {
 
     @GetMapping("/get")
     public String getUserInfo(){
-        return "Hello Hai  hai";
+        return "Hello";
     }
 
 }
